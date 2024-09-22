@@ -1,0 +1,8 @@
+(use IO)
+(use System)
+
+(Project.config "title" "Hello")
+
+(defn main[]
+    (println "Hello, World!")
+)
